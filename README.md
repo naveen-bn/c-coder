@@ -6,6 +6,6 @@
  */
 
 /*
-
+ 1. leftRotation.c
 
 */
